@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\danes\onedrive\current classes\cst 370\homework\homework 1\assighnments\assighnment 1\max heap\max heap\source.cpp(23): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+c:\users\danes\onedrive\current classes\cst 370\homework\homework 1\assighnments\assighnment 1\max heap\max heap\source.cpp(35): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\danes\onedrive\current classes\cst 370\homework\homework 1\assighnments\assighnment 1\max heap\max heap\source.cpp(36): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\danes\onedrive\current classes\cst 370\homework\homework 1\assighnments\assighnment 1\max heap\max heap\source.cpp(42): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\danes\onedrive\current classes\cst 370\homework\homework 1\assighnments\assighnment 1\max heap\max heap\source.cpp(43): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\danes\onedrive\current classes\cst 370\homework\homework 1\assighnments\assighnment 1\max heap\max heap\source.cpp(49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\danes\onedrive\current classes\cst 370\homework\homework 1\assighnments\assighnment 1\max heap\max heap\source.cpp(50): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\danes\onedrive\current classes\cst 370\homework\homework 1\assighnments\assighnment 1\max heap\max heap\source.cpp(138): warning C4715: 'verify': not all control paths return a value
+  Max Heap.vcxproj -> C:\Users\danes\OneDrive\Current Classes\CST 370\Homework\Homework 1\Assighnments\Assighnment 1\Max Heap\x64\Debug\Max Heap.exe
